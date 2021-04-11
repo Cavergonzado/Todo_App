@@ -1,0 +1,25 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "Todo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cavergonzado/Todo_App.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Avergonzado_Arellano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cavergonzado/Todo_App/issues"
+  },
+  "homepage": "https://github.com/Cavergonzado/Todo_App#readme",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
+}
